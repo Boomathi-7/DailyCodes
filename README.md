@@ -1,20 +1,25 @@
-# DailyCodes
-Comparison of Python and C
+# Daily_codes
 
-## Day 1
-Hello World
+C and Python codes
 
-## Day 2
-Declaring variables and printing
+                    Comparing  and learning Python and C
 
-## Day 3
-Getting input from user and printing
 
-## Day 4
-Arithmatic Operators
-
-## Day 5
-Relational Operators
-
-## Day 6
-Logical Operators
+ # Day_1 
+ Started with Hello World!
+ # Day_2
+ Declared and printed the value of variable 
+ # Day_3 
+ Arithmetic operations done 
+ # Day_4 
+ Relational operations done 
+ # Day_5 
+ Logical operations done
+# Day_6
+Relational operator
+# Day_7
+Adding 5 with user input 
+# Day_8 
+Multiplying 3 with user input 
+# Day_9
+Dividing 6 with user number
