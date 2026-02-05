@@ -27,3 +27,5 @@ Dividing 6 with user number
 Get a two-digit number from user and print the one’s digit
 # Day_11
 Get a two-digit number from user and print the ten’s digit
+# Day_12
+Get a three-digit number from user and print the one’s digit
