@@ -31,3 +31,5 @@ Get a two-digit number from user and print the ten’s digit
 Get a three-digit number from user and print the one’s digit
 # Day_13
 Get a three-digit number from user and print the hundred’s digit
+# Day_14
+Get a three-digit number from user and print the ten's digit
