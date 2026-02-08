@@ -1,4 +1,4 @@
-# Get a three-digit number from user and print the sum of the digits
+# Get a three-digit number from user and print the sum of digits
 
 num = int(input("Enter a three-digit number: "))
 digit_1 = num//100
