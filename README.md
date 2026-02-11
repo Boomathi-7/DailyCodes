@@ -2,7 +2,7 @@
 
 C and Python codes
 
-                    Comparing  and learning Python and C
+# Comparing  and learning Python and C
 
 
  # Day_1 
