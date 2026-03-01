@@ -45,3 +45,5 @@ Get a four-digit number from user, reverse only the first two digits of the numb
 Get a four-digit number from user and only reverse the last two digits of the number, then print the number
 # Day_20
 Get a two-digit number from user and make the one’s digit as 0, then print it
+# Day_21
+Get a two-digit number from user and make the ten’s digit as 1, then print it
