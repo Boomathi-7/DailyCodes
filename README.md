@@ -51,3 +51,5 @@ Get a two-digit number from user and make the ten’s digit as 1, then print it
 Get a three-digit number from user and make the one’s digit as 2, then print it
 # Day_23
 Get a three-digit number from user and make the ten’s digit as 0, then print it
+# Day_24
+Get a number from user and subtract 5 from that number if the number is odd, then print the result. Do not use “if”.
