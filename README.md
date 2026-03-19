@@ -55,3 +55,4 @@ Get a three-digit number from user and make the ten’s digit as 0, then print i
 Get a number from user and subtract 5 from that number if the number is odd, then print the result. Do not use “if”.
 # Day_25
 
+# Day_26
